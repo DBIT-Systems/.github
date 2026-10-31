@@ -16,8 +16,8 @@ Maintaining client systems since 2012.
 ## Client work
 
 - **2012 Security**: Website, hosting and ongoing maintenance for a UK security company.
-- **Bike & Boot**: Bespoke website and custom content management for a Scarborough hotel.
 - **Drive Buddi**: Website, SEO and social integration for a Leicester driving school.
+- **Rite-Way Building Company**: website and custom content management for a building company servicing Ebbw Vale.
 
 ## What we do
 
